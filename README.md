@@ -1,5 +1,7 @@
 # 🚜 Predictive Maintenance & Cost Optimization for Heavy Equipment (Scania Trucks)
 
+![Scania Cost Optimization Dashboard](Scania_Cost_Optimization_Dashboard.png)
+
 ## 📌 Business Objective
 In heavy industry and mining operations, sudden equipment failure leads to significant downtime and extreme financial loss. The objective of this project is to develop a machine learning model that predicts Air Pressure System (APS) failures in Scania heavy trucks. 
 
